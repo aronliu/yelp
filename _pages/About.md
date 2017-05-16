@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: pretty
+permalink: /about/
 ---
 
 About the project/data.
